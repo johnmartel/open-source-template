@@ -1,4 +1,4 @@
-_extends: .github:_opensource.yaml
+_extends: .github:_opensource.yml
 
 repository:
   name: open-source-template
