@@ -1,5 +1,7 @@
 # open-source-template
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 This repository defines a basic github template for open source projects in this organization. 
 
 
